@@ -1,0 +1,5 @@
+- [x] Tambahkan dependensi navigation-compose ke libs.versions.toml dan build.gradle.kts
+- [x] Buat file Routes.kt
+- [x] Buat file Screens.kt dengan composables ScreenA dan ScreenB
+- [x] Buat file Navigation.kt dengan MyNavigationApp
+- [x] Modifikasi MainActivity.kt untuk menggunakan MyNavigationApp
