@@ -1,0 +1,3 @@
+- [ ] Update Facebook logo in social login section
+- [ ] Update Google logo in social login section
+- [ ] Update X logo in social login section and change contentDescription to "X"
